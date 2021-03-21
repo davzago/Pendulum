@@ -1,0 +1,7 @@
+https://medium.com/analytics-vidhya/building-a-powerful-dqn-in-tensorflow-2-0-explanation-tutorial-d48ea8f3177a
+
+https://www.tensorflow.org/agents/tutorials/1_dqn_tutorial
+
+https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
+https://medium.com/analytics-vidhya/building-a-powerful-dqn-in-tensorflow-2-0-explanation-tutorial-d48ea8f3177a
